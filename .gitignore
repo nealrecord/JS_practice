@@ -1,7 +1,7 @@
 # 檔案名稱 .gitignore
 
-# 忽略 config 目錄下的所有檔案
-/.vscode/*.*
+# 忽略 .vscode 資料夾
+.vscode/*
 
-# 忽略所有 nbproject 目錄下的所有檔案
-/nbproject/*.*
+# 忽略 nbproject 資料夾
+nbproject/*
